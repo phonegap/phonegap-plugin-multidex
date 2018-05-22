@@ -1,0 +1,20 @@
+{
+  "name": "phonegap-plugin-multidex",
+  "version": "1.0.0",
+  "description": "Enable multidex in a Apache Cordova/PhoneGap application",
+  "homepage": "http://github.com/phonegap/phonegap-plugin-multidex#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phonegap/phonegap-plugin-multidex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phonegap/phonegap-plugin-multidex/issues"
+  },
+  "cordova": {
+    "id": "phonegap-plugin-multidex",
+    "platforms": ["android"]
+  },
+  "keywords": ["ecosystem:cordova", "ecosystem:phonegap", "cordova-android"],
+  "author": "Adobe PhoneGap Team",
+  "license": "MIT"
+}
